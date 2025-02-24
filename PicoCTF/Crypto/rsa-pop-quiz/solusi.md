@@ -157,20 +157,3 @@ The plaintext decrypts to reveal the flag: `picoCTF{wA8_th4t$_ill3aGal..ode01e4b
 
 **Flag:** `picoCTF{wA8_th4t$_ill3aGal..ode01e4bb}`
 
-The flag references "was that illegal," likely referring to unintended mathematical shortcuts or vulnerabilities in RSA implementations demonstrated throughout the challenge. Poor parameter choices or implementation mistakes can make RSA vulnerable despite its theoretical security.
-
-## Key Takeaways
-
-1. **Parameter Relationships:** Understanding the mathematical relationships between RSA parameters (p, q, n, e, d, φ(n))
-  
-2. **Security Foundation:** RSA's security comes from the computational difficulty of factoring large numbers
-
-3. **Implementation Vulnerabilities:** Small exponents, predictable patterns, or leaking partial key information can compromise RSA security
-
-4. **Real-world Applications:** The problems reflect real-world scenarios in cryptographic systems:
-   - Key generation (generating p, q, n, d)
-   - Encryption (calculating ciphertext)
-   - Decryption (recovering plaintext)
-   - Cryptanalysis (attacking weak implementations)
-
-This challenge provides an excellent educational journey through RSA cryptography from basic parameter calculation to more advanced cryptanalytic techniques.

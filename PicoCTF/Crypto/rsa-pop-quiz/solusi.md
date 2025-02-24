@@ -157,3 +157,4 @@ The plaintext decrypts to reveal the flag: `picoCTF{wA8_th4t$_ill3aGal..ode01e4b
 
 **Flag:** `picoCTF{wA8_th4t$_ill3aGal..ode01e4bb}`
 
+im also make the fully automated script for this challenge https://github.com/TrendoD/Writeup-Personel/blob/main/PicoCTF/Crypto/rsa-pop-quiz/script.py

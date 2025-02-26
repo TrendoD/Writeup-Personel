@@ -106,19 +106,3 @@ Ini menjalankan proses dekripsi dan mengungkapkan flag.
 ## Flag
 
 Format flag adalah `picoCTF{...}`. Flag yang tepat akan ditampilkan setelah menjalankan skrip decrypt.sh pada file yang benar.
-
-## Pelajaran yang Didapat
-
-Challenge ini mendemonstrasikan beberapa keterampilan forensik penting:
-1. Menggunakan hash kriptografi untuk memverifikasi keaslian file
-2. Mengotomatisasi perbandingan hash file
-3. Menggunakan tool command-line untuk memproses banyak file secara efisien
-4. Mengikuti pendekatan metodis untuk mengidentifikasi file target
-
-## Alat yang Digunakan
-- Klien SSH
-- Skrip Bash
-- sha256sum - untuk menghitung hash SHA-256
-- awk/cut - untuk pemrosesan teks
-
-Challenge ini menekankan pentingnya verifikasi file menggunakan hash kriptografi, konsep penting dalam forensik digital dan keamanan.

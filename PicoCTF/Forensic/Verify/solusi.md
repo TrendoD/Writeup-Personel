@@ -106,3 +106,9 @@ Ini menjalankan proses dekripsi dan mengungkapkan flag.
 ## Flag
 
 Format flag adalah `picoCTF{...}`. Flag yang tepat akan ditampilkan setelah menjalankan skrip decrypt.sh pada file yang benar.
+
+```
+picoCTF{trust_but_verify_451fd69b}
+```
+
+Karena disini file yang cocok pada saya adalah 45lfd69b kemungkinan flagnya akan memakai file yang cocok pada bagian akhir untuk flagnya

@@ -17,4 +17,4 @@ Each CTF competition has its own directory containing challenge-specific writeup
 
 ## Competitions
 
-- [UMassCTF 2025](UMassCTF%202025/) - 
+- [UMassCTF 2025](UMassCTF%202025/)

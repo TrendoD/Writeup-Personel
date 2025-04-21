@@ -17,20 +17,4 @@ Each CTF competition has its own directory containing challenge-specific writeup
 
 ## Competitions
 
-- [UMassCTF 2025](UMassCTF%202025/) - Writeups for Crypto and Forensics challenges
-
-## Tools and Resources
-
-Key tools I frequently use:
-- Burp Suite
-- Wireshark
-- Python scripting
-- Various debuggers and disassemblers
-
-## Contact
-
-Feel free to reach out if you have any questions about my writeups or want to discuss CTF strategies.
-
-## License
-
-All writeups are my own work. Please reference appropriately if you use any content from this repository.
+- [UMassCTF 2025](UMassCTF%202025/) - 

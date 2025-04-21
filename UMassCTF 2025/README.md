@@ -1,6 +1,6 @@
 # UMassCTF 2025
 
-This repository contains solutions to various challenges from UMMASCTF. Each subdirectory contains a specific challenge with its own README and solution files.
+This repository contains solutions to various challenges from UMassCTF 2025. Each subdirectory contains a specific challenge with its own README and solution files.
 
 ## Crypto Challenges
 

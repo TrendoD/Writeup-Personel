@@ -4,7 +4,7 @@ This repository contains my personal writeups for various Capture The Flag (CTF)
 
 ## About Me
 
-I'm a member of team [Sea~](https://ctftime.org/team/361419), a competitive CTF team participating in various cybersecurity competitions around the world.
+I'm a member of team [Sea~](https://ctftime.org/team/361419)
 
 ### Focus Areas
 

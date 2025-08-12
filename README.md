@@ -13,8 +13,4 @@ I'm a member of team [Sea~](https://ctftime.org/team/361419)
 
 ## Repository Structure
 
-Each CTF competition has its own directory containing challenge-specific writeups, organized by category (Web, Crypto, Forensics, etc.).
-
-## Competitions
-
-- [UMassCTF 2025](UMassCTF%202025/)
+Each CTF competition has its own directory containing challenge-specific writeups
